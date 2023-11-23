@@ -21,8 +21,7 @@ Embedding the puzzle involves getting under the hood of your website, but the pr
 <details>
   <summary><strong>Technical Details</strong></summary>
     <div>
-        Some of our exciting features such as Social Play require a bit more work than just copy-pasting code.  
-        For this, please refer to the technical documentation (TBD)
+        Some of our exciting features such as Social Play require a bit more work than just copy-pasting code. For this, please refer to the technical documentation (TBD)
     </div>
 </details>
 

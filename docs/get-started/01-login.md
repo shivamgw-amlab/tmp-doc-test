@@ -25,12 +25,12 @@ Let's start by heading to the [Login page](https://amuselabs.com/pmm/login).
 
 
 :::tip[Become a Partner]
-Want to become a partner? [Click here!](tbd_become_a_partner)
+Want to become a partner? [Click here! (TBD)](./00-get-started.md)
 :::
 
 :::info[Related]
 
-Recently became a Partner? [Check out this FAQ!](tbd_onboarding_FAQ)
+Recently became a Partner? [Check out this FAQ! (TBD)](./00-get-started.md)
 
 :::
 
@@ -47,5 +47,5 @@ The [PuzzleMe Dashboard](https://amuselabs.com/pmm/dashboard) is the interface t
 3. **Puzzle Panel**: This will contain a list of all the puzzles that are in your current Series, along with some information and actions relating to those puzzles.
 
 :::note[Info]
-PuzzleMe Series are a fantastic tool for managing, organising, and publishing the puzzles that you create on our platform. You can find out more about them [here](tbd_terminology_series).
+PuzzleMe Series are a fantastic tool for managing, organising, and publishing the puzzles that you create on our platform. You can find out more about them [here (TBD)](./00-get-started.md).
 :::

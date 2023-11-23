@@ -21,7 +21,7 @@ Crosswords often center around a single theme. Before we start, we encourage you
 :::info
 As you move through this tutorial, you'll find several elements of the interface that we haven't mentioned here. That's for good reason: this tutorial is to show you how you can get a fully functioning puzzle with little effort.  
 
-For detailed documentation on puzzles, [click here](tbd).
+For detailed documentation on puzzles, [click here (TBD)](./00-get-started.md).
 :::
 
 ### i. Creating a Crossword
