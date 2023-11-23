@@ -1,0 +1,8 @@
+{
+    "position": 2,
+    "label": "Getting Started",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {"type": "doc", "id": "get-started/get-started"}
+}
